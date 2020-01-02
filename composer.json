@@ -19,6 +19,6 @@
         "php": "^7.1",
         "doctrine/orm": "^2.6",
         "doctrine/migrations": "^1.8",
-        "yiisoft/yii2": "2.0.15.1"
+        "yiisoft/yii2": "~2.0.14"
     }
 }
